@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Phew, finally a personal website?
 
-You can use the [editor on GitHub](https://github.com/adityajain93/AdityaJain/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Honestly, I have thought about doing this for awhile mainly to motivate myself to produce quality content for somebody to view. 
+I'll try my best to document things here. Social media is too aggresive for me so I'll just stick to website which is more like a shouout to 
+the world without worrying whether it'll echo back. That being said, feel free to reach out to me otherwise.
 
 ### Markdown
 
